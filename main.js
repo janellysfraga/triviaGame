@@ -7,18 +7,18 @@ var countStartNumber = 30;
 var questions = [
     
     {
-    questions:"What was Hannah Montana's real identity?"
-    answers: ["Miley,Lilly,Mia,Laura"],
-    correctAnswer: "Miley",
-    image: 
+    questions:"Who did Ross date in the well known sitcom friends?"
+    answers: ["Hellen, Phoebe, Monica, Rachel"],
+    correctAnswer: "Rachel",
+    image: assests\ross and rachel 2.jpg
     },
 
 
     {
-        questions:"Who was not a member of the wild cats?"
+        questions:"Who was not a member of the wild cats in the movie Highschool Musical?"
         answers: ["Chase,Troy,Ryan,Zeke"],
         correctAnswer: "Ryan",
-        image:  
+        image:  assests\wild cats.jpg
         },
     
 ]
