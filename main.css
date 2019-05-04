@@ -4,7 +4,7 @@ html, body {
 
 body {
     text-align: center;
-    background-image: url("assests/download.jpg") ;
+    background-image: url("https://i.pinimg.com/originals/82/8c/e3/828ce3741bb63b8bf4af3fd516b25606.jpg");
 
 }
 
@@ -13,9 +13,7 @@ body {
     height: 95%;
     box-sizing: border-box;
     margin: 2.5% auto;
-    background-color: powderblue;
-
-
+    background-color: white;
 
 }
 
@@ -50,7 +48,7 @@ h1 {
     font-family:'Permanent Marker', cursive;
     font-size: 6.5em;
     font-weight: bold;
-    color: whitesmoke;
+    color: black;
 
 }
 
@@ -71,14 +69,14 @@ h3 {
 #start {
 
     margin-top: 10%;
-    background: rgb(250, 146, 245);
+    background: white;
     border: 2px solid rgb(153, 224, 236);
 
 }
 
 button:hover {
 
-    background: rgb(231, 231, 186);
+    background: rgb(214, 173, 228);
     border: 2px solid rgb(153, 224, 236); 
 
 }
