@@ -4,7 +4,7 @@ html, body {
 
 body {
     text-align: center;
-    background-image: url("https://i.pinimg.com/originals/82/8c/e3/828ce3741bb63b8bf4af3fd516b25606.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/09/13/49/cartoon-2614617_960_720.jpg");
 
 }
 
@@ -13,7 +13,7 @@ body {
     height: 95%;
     box-sizing: border-box;
     margin: 2.5% auto;
-    background-color: white;
+    background-color: transparent;
 
 }
 
@@ -56,6 +56,7 @@ h2 {
 
     margin-bottom: 25px;
     font-size: 35px;
+ 
 
 }
 
@@ -69,14 +70,14 @@ h3 {
 #start {
 
     margin-top: 10%;
-    background: white;
+    background: transparent;
     border: 2px solid rgb(153, 224, 236);
 
 }
 
 button:hover {
 
-    background: rgb(214, 173, 228);
+    background: transparent;
     border: 2px solid rgb(153, 224, 236); 
 
 }

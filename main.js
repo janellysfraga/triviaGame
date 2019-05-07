@@ -6,19 +6,39 @@ var countStartNumber = 30;
 var questions = [
     
     {
-        question: "Who dated Ross in the well-known sitcom friends?",
-        answers: ["Rachel", "Monica", "Phoebe", "Emily"],
-        correctAnswer: "Rachel",
-        image: "assests\ross and rachel 2.jpg"
+        question: "Who was Kim Possible's worst enemy, whom she tried to fight several times?",
+        answers: ["Shego", "Monique", "Camille Leon", "Professor Dementor"],
+        correctAnswer: "Shego",
+        image: "assests/maxresdefault.jpg"
     },
 
     {
-        question: "Who was not a member of the wild cats in the movie High School Musical?",
-        answers: ["Chase", "Ryan", "Zeke"],
-        correctAnswer: "Ryan",
-        image: "assests\wild cats.jpg"
-    }
+        question: "What is the name of the imaginary friend who constantly wreaks havoc?",
+        answers: ["Mac", "Wilt", "Eduardo", "Bloo"],
+        correctAnswer: "Bloo",
+        image: "assests/download.jpg"
+    },
 
+    {
+        question: "Who gave the PowerPuff girls their superpowers?",
+        answers: ["Mojo Jojo", "Professor Utonium", "Miss Sara Bellum", "Miss Keane"],
+        correctAnswer: "Professor Utonium",
+        image: "assests/images.jpg"
+    },
+
+    {
+        question: "Who was Timmy Turner's so called enemy in the Fairly Oddparents cartoon?",
+        answers: ["Chester McBadbat", "Chloe Carmichael", "Vicky", "Mr. Crocker"],
+        correctAnswer: "Vicky",
+        image: "assests/download (1).jpg"
+    },
+
+    {
+        question: "Which character from Rugrats was always serious and ruining the childrens fun?",
+        answers: ["Tommy Pickles", "Angelica Pickles", "Susie Carmichael", "Lillian DeVille"],
+        correctAnswer: "Angelica Pickles",
+        image: "assests/angelica-rugrats-tales-from-the-crib-snow-white--31.7.jpg"
+    },
 ]
 
 // Variable to hold our setInterval
